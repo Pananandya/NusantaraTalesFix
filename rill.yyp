@@ -36,8 +36,10 @@
   "name":"rill",
   "resources":[
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"rawr","path":"sprites/rawr/rawr.yy",},},
+    {"id":{"name":"roer","path":"sprites/roer/roer.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
